@@ -1,0 +1,17 @@
+div {
+    background-color: #d1c0a8;
+  }
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+h1,
+h2{
+    font-family: 'Gloock', serif;
+    color: #7D696C;
+}
+
+section{
+    margin-bottom: 50px;
+}
