@@ -1,0 +1,34 @@
+div {
+    background-color: #f4f1de;
+  }
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+h1{
+    font-family: 'Gloock', serif;
+    text-align: center;
+}
+h2{
+    font-family: 'Gloock', serif;
+    color: #e07a5f;
+}
+
+section{
+    margin-bottom: 50px;
+}
+
+.nav{
+    background-color: #3d405b;
+    color: #f2cc8f
+  }
+
+  .nav-link,
+  .nav-item{
+    color: #f2cc8f
+  }
+
+  .text-justify{
+    text-align: justify;
+  }
