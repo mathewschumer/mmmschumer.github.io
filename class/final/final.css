@@ -111,8 +111,8 @@ a:hover {
 
 .yt{
     align-items: center;
-    width: 600px;
-    height: 325px;
+    width: 565px;
+    height: 315px;
     margin-bottom: 1em;
 }
 
@@ -131,7 +131,7 @@ a:hover {
     background-color: #3d405b;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 1024px) {
 
     div{
         justify-content: center;
